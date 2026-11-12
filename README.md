@@ -1,28 +1,3 @@
-# Wedding Planner
-
-This is an AI assistant for wedding planning. The project
-
-3 agents:
-    - Travel: Finding flights from and to your ideal destination. Consider total travel timer, budget, number of passengers.
-    - Venue: Searches the web for wedding venue. Consider parameters such as wedding size, budget, location.
-    - DJ: Searches a music database for a playlist or songs matching the right genre.
-
-Main coordinator:
-    - Coordinate the different agents together.
-
-## TODO
-
-- [ ] Fixing the response format.
-  - The response format is not properly showing the necessary details
-- [ ] Choose the balance between context and state.
-- [ ] Connect sub agents to main agent
-
-## Resources
-
-### Frontend
-
-    - https://github.com/shadcn-ui/chatbot-template
-    - https://www.neobrutalism.dev
 
 # Wedding Planner
 

@@ -1,0 +1,2 @@
+- Each agent needs to have its functionality properly fixed.
+- The orchestrator agent should communicate with the tasks specifc agent
